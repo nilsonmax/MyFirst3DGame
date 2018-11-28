@@ -20,7 +20,7 @@ public class Timer : MonoBehaviour {
         {
             Debug.Log("Has perdido :");
             RecogedorDeObjeto.coinsCounts = 0;
-            SceneManager.LoadScene("MainScene");
+            //SceneManager.LoadScene("MainScene");
         }
 	}
 }
